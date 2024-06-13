@@ -1,4 +1,4 @@
-## Oiii eu sou a Ana Clara Souza, futura programadora em formação, cursando Informática para Internert no SENAI.
+## Oiii eu sou a Ana Clara Souza, futura programadora, cursando Informática para Internert no SENAI.
 
 
 <div style="display: inline_block"><br>
